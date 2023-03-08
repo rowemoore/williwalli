@@ -3,8 +3,8 @@ title: Running out of sample post ideas
 date: 2022-11-25
 author: Victoria Greenfelder
 image: {
-  src: "/images/post-2.jpg",
-  alt: "A picture of a coder",
+  src: "/images/bug.jpg",
+  alt: "A pretty girl in nature",
 }
 description: Sometimes you just run out of ideas for sample blog posts. It’s no one’s fault, it’s just the way it is.
 draft: false
